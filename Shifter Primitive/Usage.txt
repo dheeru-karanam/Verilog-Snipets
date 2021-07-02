@@ -1,0 +1,9 @@
+Shifter primitive
+– Right shift
+	o Fill A[15:0] as it is
+– Left shift
+	o Fill A[15:0] as A[0:15] 
+– Arithmetic shift
+	o Fill-in bit is sign bit
+– Logic shift
+	o Fill-in bits grounded
